@@ -1,0 +1,11 @@
+#+title: Readme
+* Simple text based farm game in Go.
+
+I set out to make a simple text based farm game in Go.
+
+* Features
+
+- Saving and loading of game states.
+- Time based harvesting mechanism.
+- Planting of different seeds on the lands, with different harvesting time.
+- Buying/harvesting of crops to earn more money to grow your farm.
